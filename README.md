@@ -15,7 +15,15 @@
 </div>
 
 ---
+## How to run it
 
+ * Unfortunately, I did not have time to build a docker file so you have download and install all dependencies of the solution
+ * Put `corn-maize-lefDiseaseDataset.zip` at the root of the project
+ * Create a folder dataset_extracted>data to host unzipped images
+ * Run the console app `Crop.Disease.Classifier`
+ * Once training is finished
+ * You can activate API solution and make your requests (Postman, curl)
+   
 ## Overview
 
 This solution contains two projects:
