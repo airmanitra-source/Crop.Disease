@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Crop.Disease.API/Crop.Disease.API.csproj" />
+  <Project Path="Crop.Disease.Classifier/Crop.Disease.Classifier.csproj" />
+</Solution>
