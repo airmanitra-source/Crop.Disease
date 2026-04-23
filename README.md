@@ -17,12 +17,13 @@
 ---
 ## How to run it
 
- * Unfortunately, I did not have time to build a docker file so you have download and install all dependencies of the solution
+ * Unfortunately, I did not have time to build a docker image file so you have to download and install all dependencies of the solution and run it inside Visual Studio 2022
  * Put `corn-maize-lefDiseaseDataset.zip` at the root of the project
  * Create a folder dataset_extracted>data to host unzipped images
  * Run the console app `Crop.Disease.Classifier`
- * Once training is finished
+ * Once training is finished (not long actually)
  * You can activate API solution and make your requests (Postman, curl)
+
    
 ## Overview
 
